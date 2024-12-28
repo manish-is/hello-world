@@ -8,7 +8,10 @@
     <input type="text" placeholder="Enter First Name" name="FName" id="FName" required>
     <br>
     
-   
+   <label for="mName"><b>Enter your middle Name</b></label>
+    <input type="text" placeholder="Enter middle Name" name="MName" id="MName" required>
+    <br>
+
     <label for="lName"><b>Enter your last Name</b></label>
     <input type="text" placeholder="Enter Last Name" name="LName" id="LName" required>
     <br>
@@ -36,7 +39,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning Manish </h1>
+   <h1> Thankyou, Happy Learning Manish & Shilpi </h1>
 
   
 </form>
