@@ -4,10 +4,15 @@
     <p>Please fill in this form to create an account.However, the page is currently under work</p>
     <hr>
      
-    <label for="Name"><b>Enter your First Name</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <label for="fName"><b>Enter your First Name</b></label>
+    <input type="text" placeholder="Enter First Name" name="FName" id="FName" required>
     <br>
     
+   
+    <label for="lName"><b>Enter your last Name</b></label>
+    <input type="text" placeholder="Enter Last Name" name="LName" id="LName" required>
+    <br>
+
     <label for="mobile"><b>Enter your mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
